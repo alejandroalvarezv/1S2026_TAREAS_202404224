@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1771813485 source:c:\users\aleja\documents\tarea2\tarea2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
